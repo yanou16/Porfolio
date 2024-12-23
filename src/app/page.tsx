@@ -1,6 +1,6 @@
-
+import React from 'react';
 import Navbar from "@/components/Navbar";
-import Image from "next/image";
+
 import Hero from "@/components/Hero";
 import About from "@/components/About";
 import Portfolio from "@/components/Portfolio";

@@ -1,4 +1,4 @@
-import { div, label } from 'framer-motion/client';
+
 import React from 'react'
 import { FaHtml5,FaCss3Alt,FaReact,FaJsSquare, FaPhp } from 'react-icons/fa'
 import { SiNextdotjs, SiTailwindcss ,SiFirebase, SiTypescript,SiCplusplus} from 'react-icons/si';

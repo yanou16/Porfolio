@@ -1,5 +1,5 @@
 import React from 'react'
-import { FaLinkedin , FaGithub , FaInstagram, FaTwitter } from 'react-icons/fa'
+
 import Image from 'next/image';
 import phone from '../assets/phone.png';
 import mail from '../assets/mail.png'
