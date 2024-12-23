@@ -9,19 +9,19 @@ import project3 from '../assets/project3.png';
 const projects =[
     {
         title: "VéloShop - Site E-commerce ",
-desc: "site to but Velo and there accessoire ! and a blog for Velo lover",
+desc: "VeloShop is a modern e-commerce platform designed for cycling enthusiasts. The platform offers a wide range of bicycles and accessories tailored to meet the needs of every rider, from casual cyclists to professionals.",
 devstack: "Type Script, React, Framer Motion",
 link: "https://veloshopdz.netlify.app",
 git: "https://github.com/yanou16/Velo_shop_Alger",
 src: project1},
 {title: "Interactive fortblake",
-desc: "Your application is a modern e-commerce platform designed to sell stylish and casual men's clothing. Inspired by platforms like Fortblake, it offers a seamless shopping experience with a focus on simplicity, performance, and user-friendliness. Built using React with TypeScript for robust and type-safe development, and powered by Firebase for backend services, the app ensures scalability and real-time features. ",
+desc: "the application is a modern e-commerce platform designed to sell stylish and casual men's clothing. Inspired by platforms like Fortblake, it offers a seamless shopping experience with a focus on simplicity, performance, and user-friendliness. Built using React with TypeScript for robust and type-safe development, and powered by Firebase for backend services, the app ensures scalability and real-time features. ",
 devstack: "NextJs",
 link: "https://fortblake-store-git-master-yanou16s-projects.vercel.app/",
 git: "https://github.com/yanou16/fortblake-store",
 src: project2},
 {title: "Gym site",
-desc: "frontend of a user-friendly gym application using React.js.",
+desc: "Gym Fit is a modern and dynamic platform designed for fitness enthusiasts and those passionate about well-being. Whether you're a beginner or an experienced athlete, Gym Fit provides everything you need to achieve your fitness goals.",
 devstack: "React, Tailwind , React Router",
 link: "https://www.linkedin.com/posts/rayane-lz-b7752b224_webdevelopment-frontend-react-activity-7263926863994011648-AoJc?utm_source=share&utm_medium=member_desktop",
 

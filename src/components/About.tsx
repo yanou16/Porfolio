@@ -23,7 +23,7 @@ opacity-30 animate-gradient-xy'></div>
     <Image src={book} alt='book' className='w-auto h-[130px]'/> 
     <div className='flex flex-col mt-4' >
     <h2 className='text-2xl font-bold text-white/80'>Education</h2>
-    <p className='text-lg text-white/70 mt-2'>i hold a bachelor in computer science and i am focusing on tech like React , Next Js and Tailwind Js</p>
+    <p className='text-lg text-white/70 mt-2'>i will hold a bachelor in computer science and I am focusing on tech like React , Next Js and Tailwind Js</p>
   </div>
 </div>
 
