@@ -1,6 +1,116 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
+# Portfolio 🎨
+
+This is a personal portfolio website built with Next.js, React, and Tailwind CSS. It showcases my projects, skills, and contact information.
+
+## Table of Contents 📚
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [Technologies](#technologies)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Installation 🛠️
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/yanou16/Porfolio.git
+
+Sure! You can add emojis to your 
+
+README.md
+
+ file to make it more visually appealing. Here is an updated version of the 
+
+README.md
+
+ file with emojis:
+
+### 
+
+README.md
+
+
+```markdown
+# Portfolio 🎨
+
+This is a personal portfolio website built with Next.js, React, and Tailwind CSS. It showcases my projects, skills, and contact information.
+
+## Table of Contents 📚
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [Technologies](#technologies)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Installation 🛠️
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/yanou16/Porfolio.git
+   ```
+2. Navigate to the project directory:
+   ```sh
+   cd Porfolio
+   ```
+3. Install dependencies:
+   ```sh
+   npm install
+   ```
+
+## Usage 🚀
+
+1. Run the development server:
+   ```sh
+   npm run dev
+   ```
+2. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+## Features ✨
+
+- Responsive design
+- Showcases projects with descriptions and links
+- Displays skills with icons
+- Contact form to get in touch
+
+## Technologies 🛠️
+
+- Next.js
+- React
+- Tailwind CSS
+- Framer Motion
+- getform.io (for contact form handling)
+
+## Contributing 🤝
+
+Contributions are welcome! Please open an issue or submit a pull request for any changes.
+
+## License 📄
+
+This project is licensed under the MIT License.
+
+
+
+
+This will add the 
+
+README.md
+
+ file with emojis to your GitHub repository.
+
+
+
+
+
+
+
+
 
 First, run the development server:
 
